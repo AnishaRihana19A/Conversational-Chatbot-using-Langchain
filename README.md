@@ -123,7 +123,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Anisha Rihana A - [@anisharihana60@gmail.com](anisharihana60@gmail.com)
+Anisha Rihana A - [anisharihana60@gmail.com](anisharihana60@gmail.com)
 
 
 ## Acknowledgements
